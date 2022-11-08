@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Davis - @PaulthRobert
+- 👋 Hi, I’m Paul Davis - @PaultheRobert
 - 👀 I’m interested in ... React .Js, Apache Tinkerpop, data science, and vizualization  - am a SQL Developer and Business Intelligence Developer
 
 - 🌱 I’m currently learning ... React Js., gremlin, python, java scrpt
@@ -9,7 +9,4 @@
       
 - 📫 How to reach me ...
     pauldavis1826@gmail.com
-<!---
-PaulthRobert/PaulthRobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
