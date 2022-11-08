@@ -21,7 +21,7 @@ class ResumeHeader extends React.Component{
                     <div className='row'>
                         <div className='col-sm-2 col-4'>
                             <div className='thumbnail'>
-                                <a href='https://github.com/PaulthRobert/'>
+                                <a href='https://github.com/PaultheRobert/'>
                                     <img src={gitHubIcon}  className='img-thumbnail'/> 
                                 </a>                           
                             </div>
