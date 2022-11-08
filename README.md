@@ -10,4 +10,3 @@
 - 📫 How to reach me ...
     pauldavis1826@gmail.com
 
-- 1,2,3,4 
